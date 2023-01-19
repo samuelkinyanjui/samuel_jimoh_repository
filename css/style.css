@@ -8,6 +8,9 @@
 main{
     display: block;
 }
+#img-div{
+    background-color:white ;
+}
 #image{
     max-width: max-content;
     height: auto;
