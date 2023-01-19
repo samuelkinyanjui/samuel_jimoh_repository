@@ -27,4 +27,7 @@ main{
     list-style-type: disc;
     align-items: center;
 }
+#linkpart{
+    font-size: 30;
+}
 
