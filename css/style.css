@@ -40,5 +40,12 @@ main{
     font-weight: 100;
     font-size: larger;
     text-align: center;
+}li
+{
+
+background-repeat: no-repeat;
+background-position: 100% .4em;
+padding-right: .6em;
+margin: 1em 0;
 }
 
