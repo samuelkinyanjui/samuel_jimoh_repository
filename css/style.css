@@ -29,5 +29,13 @@ main{
 }
 #linkpart{
     font-size: 30;
+    font-weight: bolder;
+    text-align: center;
+}
+#comment{
+    font-style: italic;
+    font-weight: 100;
+    font-size: larger;
+    text-align: center;
 }
 
